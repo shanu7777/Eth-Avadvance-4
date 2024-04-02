@@ -1,8 +1,4 @@
-# Ethereum Account Abstraction Wallet DApp
-
-This repository hosts a decentralized application (DApp) centered around Ethereum smart contract wallets, leveraging the concept of account abstraction. Built using Solidity, React, the DApp offers a streamlined interface for users to efficiently manage Ether and ERC20 tokens on the Ethereum blockchain. It emphasizes ease of use, security, and flexible wallet management through account abstraction techniques.
-
-## Getting Started
+# Eth Advance 4
 
 ### Prerequisites
 
@@ -14,7 +10,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Lukman-01/Smart-wallet-by-acct-abstraction.git]
+   git clone
    ```
 
 2. **Install dependencies:**
@@ -43,11 +39,9 @@ Make sure you have the following installed:
 
 - Modify `hardhat.config.js` with your desired network settings to deploy the smart contracts to a testnet or mainnet. This project is configured using Sepolia network.
 
-## Authors
-
-Abdulyekeen Lukman
-oyeniyifortunate@gmail.com
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for more information.
+
+- - -
